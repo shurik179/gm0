@@ -32,6 +32,12 @@ to help prevent disconnections.
 
 To protect wires, teams often use
 `wire loom <https://www.amazon.com/Black-Split-Tubing-Cover-Marine/dp/B00J7RD6ZI/ref=sr_1_13?keywords=wire+loom&qid=1562452458&s=gateway&sr=8-13>`_,
-and to help wires extend far,
-teams often use cable carrier (also known as cable chain).
+or `split cable sleeve <https://www.amazon.com/gp/product/B07FWC1XQZ/>`_
 
+To help wires extend far (for example when used with vertical lifts)
+teams often use cable carrier (also known as `cable chain <https://www.amazon.com/dp/B07WJ4CPF5/>`_).
+Another option is using a coiled cable such as `this one <https://www.cablescience.com/electronic-coiled-cord-20-gauge-with-3-conductors.html>`_
+(requires soldering appropriate connectors). Note that you should pay attention
+to wire gauge - by FTC rules, servo wires should be 22AWG or larger (20 is
+recommended for long runs), and motor wires should be 18AWG or larger.
+For example, typical  coiled phone cable uses 26AWG wires and therefore is not legal for FTC use.

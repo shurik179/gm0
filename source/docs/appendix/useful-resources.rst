@@ -22,6 +22,11 @@ For further reading, we highly suggest you check out those links.**
     * `Team Management Resources (Budget, Engineering Notebook, etc.) <https://www.firstinspires.org/resource-library/ftc/team-management-resources>`_
     * `Mentor Manual <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/mentor-manual.pdf>`_
 * General Team Resources
+    * `FTC Startup Guide <https://drive.google.com/file/d/1CRiVauCjL1bRjLv2jZFBUpICMq4CzkoJ/view>`_,
+      by FRC 862 Lightning Robotics. Note that this is
+      written  from the perspective of a Michigan team, and FTC in Michigan 
+      is somewhat special - e.g. it is only for middle school teams. However,
+      most of the material is relevant for all FTC teams.
     * `KNO3 Software/Mechanical/CAD Resources <https://www.kno3.net/resources>`_
     * `Simbotics FRC Philosophy and Game Analysis* <https://www.simbotics.org/wp-content/uploads/2019/12/robotdesign.pdf>`_
 * Building Resources - Principles
