@@ -4,7 +4,7 @@ Tips and Tricks
 In addition to what is written in the official resources,
 there are a couple of additional tips.
 
-The traditional XT30 connector that is used to REV is prone to breaking.
+The traditional XT30 connector that is used by REV Roboics is prone to breaking.
 It is highly recommended that teams replace XT30 connectors with Anderson
 Powerpole, or put adapters on their current wires.
 An example of an adapter is
@@ -34,7 +34,7 @@ To protect wires, teams often use
 `wire loom <https://www.amazon.com/Black-Split-Tubing-Cover-Marine/dp/B00J7RD6ZI/ref=sr_1_13?keywords=wire+loom&qid=1562452458&s=gateway&sr=8-13>`_,
 or `split cable sleeve <https://www.amazon.com/gp/product/B07FWC1XQZ/>`_
 
-To help wires extend far (for example when used with vertical lifts)
+To help wires extend far (for example, when used with vertical lifts)
 teams often use cable carrier (also known as `cable chain <https://www.amazon.com/dp/B07WJ4CPF5/>`_).
 Another option is using a coiled cable such as `this one <https://www.cablescience.com/electronic-coiled-cord-20-gauge-with-3-conductors.html>`_
 (requires soldering appropriate connectors). Note that you should pay attention
